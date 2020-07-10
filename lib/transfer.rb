@@ -25,5 +25,5 @@ class Transfer
       puts "Transaction was already executed."
       
     else
-      
+      @sender.deposit = 
 end
