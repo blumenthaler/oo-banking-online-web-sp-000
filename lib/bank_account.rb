@@ -8,6 +8,12 @@ class BankAccount
     @status = status
   end
   
+  def deposit
+    
+  end
   
+  def display_balance
+    @balance
+  end
 
 end
